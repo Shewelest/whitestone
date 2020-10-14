@@ -2,7 +2,7 @@ deduction
 
 sequenced operation
 
-information reduced to a state devoid of contradiction, equivocation, redundancy and anything extraneous 
+information reduced to a state devoid of contradiction, equivocation, redundancy and anything extraneous (irrelevant or moot to the formulation or calculative process)
 
 ----
 
