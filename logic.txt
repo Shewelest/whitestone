@@ -1,6 +1,6 @@
 deduction
 
-sequenced operation; input to output; a closed 1 for 1 relationship (of some signal or symbol)
+sequenced operation; input matched to output; a closed 1 for 1 relationship (of some signal or symbol)
 
 information reduced to a state devoid of contradiction, equivocation, redundancy and anything extraneous (irrelevant or moot to the formulation or calculative process)
 
