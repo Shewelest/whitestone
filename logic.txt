@@ -1,4 +1,4 @@
-deduction
+deduction (a post-inductive process)
 
 sequenced operation; input to output; a closed 1 for 1 relationship (of some signal or symbol)
 
