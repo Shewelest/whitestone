@@ -1,6 +1,6 @@
 # WHITESTONE: a pocket reference for philosophy..
 
- ..inspired by [jargon files](https://en.wikipedia.org/wiki/Jargon_File), and inline with the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
+ ..inspired by [jargon files](https://en.wikipedia.org/wiki/Jargon_File), and in line with the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
 
 Definitions are placed at top of a text file and separated by single empty lines.
 
